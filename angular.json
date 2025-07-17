@@ -56,7 +56,7 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "BCT_ng--dry--run:build:production"
+              "buildTarget": ":build:production"
             },
             "development": {
               "buildTarget": "BCT_ng--dry--run:build:development"
